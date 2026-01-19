@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Use the provided API URL
-const API_BASE_URL = 'https://miniature-parakeet-green.vercel.app/api';
+const API_BASE_URL = 'https://edn-su.vercel.app/api';
 
 // Create axios instance with base configuration
 const api = axios.create({
